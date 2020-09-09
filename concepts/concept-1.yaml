@@ -1,0 +1,36 @@
+termid: 1
+eng:
+  id: 1
+  language_code: eng
+  entry_status: valid
+  terms:
+    - designation: first term
+      type: expression
+  definition: definition one
+  notes: []
+  examples: []
+  authoritative_source:
+    link: 'https://example.com/'
+  _revisions:
+    current: 6c23ed
+    tree:
+      6c23ed:
+        object:
+          id: 1
+          language_code: eng
+          entry_status: valid
+          terms:
+            - designation: first term
+              type: expression
+          definition: definition one
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://example.com/'
+        parents: []
+        timeCreated: 2020-09-09T07:21:16.269Z
+        changeRequestID: 92e34f
+        author:
+          username: ronaldtse
+          email: ronald.tse@ribose.com
+          name: Ronald Tse
