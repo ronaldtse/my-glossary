@@ -23,7 +23,7 @@ revisions:
       timeCreated: 2020-09-09T07:21:16.269Z
 meta:
   registry:
-    stage: Draft
+    stage: Proposal
   submitter:
     primaryPerson:
       name: Ronald Tse
@@ -67,3 +67,4 @@ _revisions:
               affiliation: ''
       parents: []
       timeCreated: 2020-09-09T07:21:16.219Z
+timeSubmitted: 2020-09-09T07:24:36.010Z
