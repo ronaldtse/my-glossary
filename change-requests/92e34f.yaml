@@ -4,7 +4,23 @@ author:
   name: Ronald Tse
   email: ronald.tse@ribose.com
 timeCreated: 2020-09-09T07:21:16.219Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: first term
+            type: expression
+        definition: definition one
+        notes: []
+        examples: []
+        authoritative_source:
+          link: 'https://example.com/'
+      parents: []
+      timeCreated: 2020-09-09T07:21:16.269Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +40,23 @@ _revisions:
           name: Ronald Tse
           email: ronald.tse@ribose.com
         timeCreated: 2020-09-09T07:21:16.219Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: first term
+                    type: expression
+                definition: definition one
+                notes: []
+                examples: []
+                authoritative_source:
+                  link: 'https://example.com/'
+              parents: []
+              timeCreated: 2020-09-09T07:21:16.269Z
         meta:
           registry:
             stage: Draft
